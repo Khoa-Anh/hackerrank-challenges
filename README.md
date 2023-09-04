@@ -14,8 +14,8 @@ https://www.hackerrank.com/damkhoaanh
 |[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true)|Introduction|[link](Java/solutions/IfElse.java)|[link](Java/pdf/java-if-else-English.pdf)|
 |[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true)|Introduction|[link](Java/solutions/StdinAndSdtout2.java)|[link](Java/pdf/java-stdin-stdout-English.pdf)|
 |[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true)|Introduction|[link](Java/solutions/OutputFormatting.java)|[link](Java/pdf/java-output-formatting-English.pdf)|
-|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true)|Introduction|[link](Java/solutions/)|[link](Java/pdf/)|
-|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true)|Introduction|[link](Java/solutions/)|[link](Java/pdf/)|
+|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true)|Introduction|[link](Java/solutions/Loop1.java)|[link](Java/pdf/java-loops-i-English.pdf)|
+|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true)|Introduction|[link](Java/solutions/Loop2.java)|[link](Java/pdf/java-loops-English.pdf)|
 |[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)|Introduction|[link](Java/solutions/)|[link](Java/pdf/)|
 |[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)|Introduction|[link](Java/solutions/)|[link](Java/pdf/)|
 |[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true)|Introduction|[link](Java/solutions/)|[link](Java/pdf/)|
