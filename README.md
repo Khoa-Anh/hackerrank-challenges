@@ -47,7 +47,22 @@ https://www.hackerrank.com/damkhoaanh
 
 |Challenges|Subdomains|Solutions|
 |-|-|-|
-|-|-|-|
+|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true)|Introduction|[link](C/solutions/hello_world.c)|
+|[Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true)|Introduction|[link](C/solutions/hello_world.c)|
+|[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true)|Introduction|[link](C/solutions/hello_world.c)|
+|[Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true)|Introduction|[link](C/solutions/hello_world.c)|
+|[Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true)|Introduction|[link](C/solutions/hello_world.c)|
+|[Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true)|Conditionals and Loops|[link](C/solutions/hello_world.c)|
+|[For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true)|Conditionals and Loops|[link](C/solutions/hello_world.c)|
+|[Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true)|Conditionals and Loops|[link](C/solutions/hello_world.c)|
+|[Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true)|Conditionals and Loops|[link](C/solutions/hello_world.c)|
+|[Printing Pattern Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true)|Conditionals and Loops|[link](C/solutions/hello_world.c)|
+|[1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true)|Arrays and Strings|[link](C/solutions/hello_world.c)|
+|[Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true)|Arrays and Strings|[link](C/solutions/hello_world.c)|
+|[Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true)|Arrays and Strings|[link](C/solutions/hello_world.c)|
+|[Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true)|Arrays and Strings|[link](C/solutions/hello_world.c)|
+|[Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true)|Functions|[link](C/solutions/hello_world.c)|
+|[Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true)|Functions|[link](C/solutions/hello_world.c)|
 
 
 ## SQL
